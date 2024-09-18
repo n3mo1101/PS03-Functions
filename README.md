@@ -1,5 +1,5 @@
 # PS03-Functions
-Practice Sets 03 Functions: (Individual) Assignment/Task in OOP
+Practice Sets 03 Functions:
 Create a GitHub repository for this project, giving it a suitable name. Within the repository, establish a single project solution containing multiple console applications. Each console app should correspond to a specific number from the practice sets.
 
 1. (Complete) Create a function that computes the area of a triangle using Heron’s formula:
